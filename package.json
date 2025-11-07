@@ -14,13 +14,16 @@
     "@react-native-community/slider": "^4.4.3",
     "expo": "^51.0.0",
     "expo-status-bar": "^1.12.1",
+    "lucide-react-native": "^0.384.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.74.0",
     "react-native-svg": "^15.5.0",
-    "react-native-web": "~0.19.10"
+    "react-native-web": "~0.19.10",
+    "typescript": "~5.3.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.24.0"
+    "@babel/core": "^7.24.0",
+    "@types/react": "~18.2.79"
   }
 }
