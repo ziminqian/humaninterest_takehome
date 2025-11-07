@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo-google-fonts/inter": "^0.2.3",
     "@expo/metro-runtime": "~3.2.3",
     "@react-native-community/slider": "^4.4.3",
     "expo": "^51.0.0",
